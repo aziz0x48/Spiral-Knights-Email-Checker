@@ -23,7 +23,7 @@ Checker will start to check and will save the hits in rzlt.txt file!
 Do not change maillist.txt file name or use another text file to store emails; copy and paste your emails in hte maillist.txt only!
 
 Thats all.
-
+  
 
 
 
